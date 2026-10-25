@@ -4,7 +4,7 @@
 // "Constants" (Wrapped as functions for idempotency. *sigh*)
 
 
-use <conversions.scad>
+use <conversions_export.scad>
 
 
 // Math stuff
